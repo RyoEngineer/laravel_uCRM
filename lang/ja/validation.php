@@ -159,6 +159,13 @@ return [
         'name' => '名前',
         'memo' => 'メモ',
         'price' => '価格',
+        'gender' => '性別',
+        'birthday' => '誕生日',
+        'address' => '住所',
+        'postcode' => '郵便番号',
+        'tel' => '電話番号',
+        'email' => 'メールアドレス',   
+        'kana' => 'かな', 
     ],
 
 ];
